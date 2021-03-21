@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 them tinh nang 1
 tinh nang 2
 tinh nang 3
+tinh nang 4
+=======
+them tinh nang 1
+>>>>>>> parent of 8885a13 (chinh sua mo ta2 lan1)
 =======
 them tinh nang 1
 >>>>>>> parent of 8885a13 (chinh sua mo ta2 lan1)
